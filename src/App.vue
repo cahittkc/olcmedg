@@ -4,7 +4,7 @@
     <ul class="flex   gap-x-4 p-1 overflow-x-auto ">
       <li class="nt !text-base cursor-pointer whitespace-nowrap rounded-lg p-1">
           <router-link class="p-1" exactActiveClass="dark:!text-white text-orange-500 " to="/">
-             Test Geliştirme
+             Çoktan Seçmeli Soru Geliştirme
           </router-link>
       </li>
       <li class="nt !text-base cursor-pointer whitespace-nowrap rounded-lg p-1">

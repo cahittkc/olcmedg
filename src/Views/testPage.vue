@@ -1,7 +1,7 @@
 <template>
   <div class="flex justify-center px-2">
     <p class="nt text-sm">
-      Test geliştirme süreci testin amacının belirlenmesi ile başlar. Test
+      Çoktan seçmeli soru geliştirme amacının belirlenmesi ile başlar. Test
       geliştirme, test maddelerine verilecek yanıtların veya testten alınacak
       puanların ne şekilde yorumlanacağına dair bir amaç içerir.
     </p>

@@ -1,6 +1,5 @@
 <template>
     <div class="flex flex-col gap-y-2 mb-8">
-        <span class="title !text-red-400">Portfolyo</span>
         <p class="nt leading-6">
             Portfolyolar yıllardır artistler, fotoğraf sanatçıları, yazarlar vb. tarafından çalışmalarının en iyi örneklerini toplamak ve göstermek için kullanılmaktadır. Bu yaklaşım, eğitim alanına öğrenci performansını değerlendirmenin temel yöntemlerinden biri olarak adapte
             edilmiştir. Portfolyo, ilköğretimden yüksek öğretime kadar eğitimin
