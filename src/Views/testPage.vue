@@ -39,7 +39,7 @@
     </div>  
 
     <div class="flex justify-center my-4 rounded-lg "> 
-        <iframe width="1268" height="713" src="https://www.youtube.com/embed/HMFwOkYpzGA" title="Test Hazırlama" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="800" height="500" src="https://www.youtube.com/embed/HMFwOkYpzGA" title="Test Hazırlama" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 
     <general-modal v-model="amacModal" title="Amacın Belirlenmesi" width="w-[600px]">

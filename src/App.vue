@@ -12,6 +12,11 @@
              Rubrik Geliştirme
           </router-link>
       </li>
+      <li class="nt !text-base cursor-pointer whitespace-nowrap rounded-lg p-1">
+          <router-link class="p-1" exactActiveClass="dark:!text-white text-orange-500 " to="/portfolyo">
+             Portfolyo
+          </router-link>
+      </li>
     </ul>
    <div @click="changeTheme()" class="flex  justify-between w-[60px] px-1 py-1  dark:bg-zinc-800 bg-gray-400 rounded-lg">
         <span :class="{'bg-zinc-600' : theme.darkMode}" class="cursor-pointer px-[6px] flex items-center  rounded-full">
