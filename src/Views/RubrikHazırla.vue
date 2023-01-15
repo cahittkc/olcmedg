@@ -14,7 +14,7 @@
         </div>
         <div class="flex flex-col gap-y-1">
             <span class="nt"> Okule veya Kurum bilgisi, detaylar,açıklama </span>
-            <input v-model="info" placeholder="Her bir puanlama arasına ,(virgül) bırakarak puan veya düzeylerinizi belirtebilirsiniz.." class="input-item w-full " type="text">
+            <input v-model="info" placeholder="" class="input-item w-full " type="text">
         </div>
        
         <div class="flex justify-end">

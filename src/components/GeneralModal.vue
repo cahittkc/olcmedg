@@ -4,7 +4,7 @@
         <div @click="stopClose($event)" id="content" :class="[`${width}`]"  class=" bgr z-50   max-[450px]:!w-[98%] rounded-md absolute top-1/2 transition-all left-1/2 -translate-x-1/2 -translate-y-1/2 flex flex-col max-h-[700px] overflow-y-auto text-black ">
             <div class=" p-2 border-b dark:border-zinc-800 border-gray-300 flex justify-between  items-center">
                 <span></span>
-                <span class="text-base  max-lg:text-xs !text-blue-500 font-semibold"> {{title}} </span>
+                <span class="text-base  max-lg:text-xs !text-red-400 font-semibold"> {{title}} </span>
                 <i @click="close()" class="fas fa-times cursor-pointer  nt hover:text-red-400 transition-all"></i>
             </div>
             <div class="p-2 overflow-y-auto dark:text-secondary-color text-black ">
