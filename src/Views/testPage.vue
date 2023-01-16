@@ -6,6 +6,15 @@
       puanların ne şekilde yorumlanacağına dair bir amaç içerir.
     </p>
   </div>
+  <div class="h-[500px]">
+    <div style="position: relative; width: 100%; height: 500px !important; padding-top: 56.2500%;
+        padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+        border-radius: 8px; will-change: transform;">
+        <iframe loading="lazy" style="position: absolute; width: 100%; height: 500px; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+            src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFX1tpOFng&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+        </iframe>
+    </div>
+  </div>
   <div class="mt-4 flex justify-center gap-7 flex-wrap">
         <div @click="amacModal = true" class=" w-[250px] cursor-pointer rounded-lg border bdr p-4 flex justify-center items-center text-center shadow-xl hover:scale-105 transition-all">
             <p class="nt text-base !text-mny-color ">Amacın belirlenmesi</p>
@@ -41,6 +50,7 @@
     <div class="flex justify-center my-4 rounded-lg "> 
         <iframe width="800" height="500" src="https://www.youtube.com/embed/HMFwOkYpzGA" title="Test Hazırlama" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
+    
 
     <general-modal v-model="amacModal" title="Amacın Belirlenmesi" width="w-[600px]">
         <template #content>
