@@ -32,7 +32,7 @@
     </div>
     <div v-if="rubrikList.length > 0">
          <div  v-for="(r,index) in rubrikList" :key="index" class="flex justify-between  border-4 border-black ">
-        <div class="flex justify-center items-center border-r-2 border-black px-2 ">
+        <div class="flex justify-center items-center border-r-2 border-black px-2 min-w-[150px] ">
             <span class="nt"> {{r.title}} </span>
         </div>
         <div class="flex flex-1 w-full">

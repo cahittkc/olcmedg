@@ -1,4 +1,13 @@
 <template>
+    <div class="h-[500px] my-6">
+        <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0;  margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 500px; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFX3teWbHk&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+    </div>
     <div class="flex flex-col gap-y-2 mb-8">
         <p class="nt leading-6">
             Portfolyolar yıllardır artistler, fotoğraf sanatçıları, yazarlar vb. tarafından çalışmalarının en iyi örneklerini toplamak ve göstermek için kullanılmaktadır. Bu yaklaşım, eğitim alanına öğrenci performansını değerlendirmenin temel yöntemlerinden biri olarak adapte

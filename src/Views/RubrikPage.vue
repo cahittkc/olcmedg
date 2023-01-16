@@ -11,7 +11,6 @@
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFX3YlB81Y&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFX3YlB81Y&#x2F;view?utm_content=DAFX3YlB81Y&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Rubrik geliştirme</a> - Hüseyin Cahit Tikac
         </div>
        <div class="flex justify-center mb-8">
             <div class="flex flex-col gap-y-3">
